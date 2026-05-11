@@ -32,7 +32,7 @@
 
 Detailed writeups for all challenges are available on Medium:
 
-👉 **[Read the Writeups]([https://medium.com/@mahamarwani71/forensics-ctf-writeup-securinets-isetzg-x-securinets-isetr-7b22df8bbf2a])**
+👉 **[Read the Writeups](https://medium.com/@mahamarwani71/forensics-ctf-writeup-securinets-isetzg-x-securinets-isetr-7b22df8bbf2a)**
 
 ---
 
