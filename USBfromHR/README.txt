@@ -1,0 +1,4 @@
+An HR employee lost a company USB drive during a business trip. The device was later recovered in the office parking lot. Internal review indicates that the employee used a consistent personal credential pattern across multiple systems.
+Analysis of recovered artifacts suggests that authentication data follows a structured format based on personal attributes in the following order: pet name followed by year of birth, with an additional mandatory suffix required by legacy security policy.
+Your task is to investigate the disk image and recover any hidden or protected data.
+Flag Format: Securinets{w1_w2_w(3)}
